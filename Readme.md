@@ -65,9 +65,7 @@ The repository is organized into folders that reflect different study areas and 
 If you want to follow my progress, exchange ideas, or discuss Java, feel free to reach out:
 
 - **GitHub**: [luizgdsmdev](https://github.com/luizgdsmdev)
-- **LinkedIn**: [Add your LinkedIn, if desired]
-- **Email**: [Add your email, if desired]
-
+- **LinkedIn**:[luizgdsmdev](https://www.linkedin.com/in/luizgdsm/)
 ---
 
 **"Practice leads to perfection, and continuous learning leads to mastery."**
