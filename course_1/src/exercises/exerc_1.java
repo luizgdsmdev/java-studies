@@ -1,9 +1,6 @@
 package exercises;
 
-
-//This exercise is meant to cover a basic else/if and ternary operator use
-//to define if a number is odd/even
-public class exer_1 {
+public class exerc_1 {
     public static void main(String[] arg){
         byte a = 2;
 
