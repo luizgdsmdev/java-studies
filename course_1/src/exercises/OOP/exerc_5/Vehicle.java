@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class Vehicle {
     public static void main(String[] args){
-        CreateVehicle Ford =new CreateVehicle("Ford", "2025", 70.000);
+        CreateVehicle Ford = new CreateVehicle("Ford", "2025", 70.000);
         String[] FordData = Ford.getVehicleData();
         String fordStart = Ford.startVehicle();
         String fordHonk = Ford.honkVehicle();
