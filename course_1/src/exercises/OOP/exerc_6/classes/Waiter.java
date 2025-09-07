@@ -1,7 +1,7 @@
 package exercises.OOP.exerc_6.classes;
 import exercises.OOP.exerc_6.interfaces.waiterInterface;
 
-public class Waiter extends restaurantClass implements waiterInterface {
+public class Waiter implements waiterInterface {
     String name;
     String shift;
     short codeID;
@@ -17,19 +17,9 @@ public class Waiter extends restaurantClass implements waiterInterface {
         this.startShiftAt = startShiftAt;
     }
     
-    public String clearRestaurant(boolean isOpen){
-        String response = openRestaurant();
-        return response + "The the cleaning was finished.";
-    };
-
-    public String isOpen(){
-        return "";
-    }
-
     public String clearRestaurant(){
-        return "";
-    }
-
+        return "The the cleaning was finished.";
+    };
 
     public String prepareAttendence(){
         //String response = openCashier();

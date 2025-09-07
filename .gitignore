@@ -6,6 +6,8 @@
 /.metadata
 /.settings/
 /.settings
+/old_course_1
+/old_course_1/
 
 # testing
 /coverage

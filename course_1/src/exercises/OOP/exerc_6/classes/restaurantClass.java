@@ -6,7 +6,7 @@ public class restaurantClass implements restaurantInterface {
     public String openRestaurant(){
         boolean response =  isRestaurantOpen();
         return response ? "Restaurant was already opened." : "You opened the restaurant.";
-    }
+    };
 
     public String closeRestaurant(){
         boolean response =  isRestaurantOpen();
